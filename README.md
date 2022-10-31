@@ -7,7 +7,10 @@
 ## Packages
 
 provider
+
 dio
+
+shared Preferences
 
 
 ## Getting Started
