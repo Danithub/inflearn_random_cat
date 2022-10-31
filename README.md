@@ -1,6 +1,14 @@
 # random_cat
 
-A new Flutter project.
+인프런 Flutter 인강 실습앱
+
+고양이 사진 랜덤 호출
+
+## Packages
+
+provider
+dio
+
 
 ## Getting Started
 
